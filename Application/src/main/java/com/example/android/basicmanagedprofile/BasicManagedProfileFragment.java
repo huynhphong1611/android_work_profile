@@ -65,7 +65,7 @@ public class BasicManagedProfileFragment extends Fragment
     /**
      * Package name of Chrome
      */
-    private static final String PACKAGE_NAME_CHROME = "com.android.chrome";
+    private static final String PACKAGE_NAME_CHROME = "com.facebook.katana";
 
     /**
      * {@link Button} to remove this managed profile.

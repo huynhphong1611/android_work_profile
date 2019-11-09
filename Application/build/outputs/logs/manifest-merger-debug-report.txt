@@ -1,0 +1,127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:18:1-61:12
+MERGED from [com.android.support:support-v13:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/410eb34f811c766961c952c168305d90/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a1984cabdea448d27dcd2a187f31db57/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/37c602795ccdd7d2fafbb6e6cea44f8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/042133c900abf0d296a81229c162fb68/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/eda665d5fe706565e350cf00ab4617f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/883654949c01f00d7f96c000d2b72942/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4c476f36b575a32e61d442d982e354dd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/ab57e547b451fa9d96fb43abc52c06c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d56b2f17e316dfeee3ba8817fc78cb11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8882dbcd1d1696f7c40e8211d04fc803/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/af8bbfee1091282abce8fde4451e4005/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4915556eb820d83bba5364cc84bceb52/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:18:1-61:12
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:18:1-61:12
+	package
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:19:5-54
+	android:versionName
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:21:5-51
+	xmlns:android
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:20:5-63
+	android:versionCode
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+application
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:25:1-58:19
+	android:label
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:27:9-41
+	tools:ignore
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:30:9-48
+	android:icon
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:29:9-35
+	android:theme
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:28:9-40
+activity#com.example.android.basicmanagedprofile.MainActivity
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:32:9-39:20
+	android:label
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:33:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:35:13-38:29
+action#android.intent.action.MAIN
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:36:17-68
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:37:27-74
+activity#com.example.android.basicmanagedprofile.EnableProfileActivity
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:41:9-43:47
+	android:label
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:42:13-50
+receiver#com.example.android.basicmanagedprofile.BasicDeviceAdminReceiver
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:45:9-56:20
+	android:label
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:48:13-45
+	android:permission
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:49:13-70
+	android:description
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:47:13-51
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:46:13-53
+meta-data#android.app.device_admin
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:50:13-52:70
+	android:resource
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:52:17-68
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:51:17-56
+intent-filter#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:53:13-55:29
+action#android.app.action.DEVICE_ADMIN_ENABLED
+ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:54:17-81
+	android:name
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml:54:25-79
+uses-sdk
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/410eb34f811c766961c952c168305d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v13:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v13-27.0.2.aar/410eb34f811c766961c952c168305d90/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a1984cabdea448d27dcd2a187f31db57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-v4-27.0.2.aar/a1984cabdea448d27dcd2a187f31db57/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/37c602795ccdd7d2fafbb6e6cea44f8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.0.2.aar/37c602795ccdd7d2fafbb6e6cea44f8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/042133c900abf0d296a81229c162fb68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.0.2.aar/042133c900abf0d296a81229c162fb68/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/eda665d5fe706565e350cf00ab4617f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.0.2.aar/eda665d5fe706565e350cf00ab4617f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/883654949c01f00d7f96c000d2b72942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-fragment-27.0.2.aar/883654949c01f00d7f96c000d2b72942/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4c476f36b575a32e61d442d982e354dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.0.2.aar/4c476f36b575a32e61d442d982e354dd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/ab57e547b451fa9d96fb43abc52c06c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.0.2.aar/ab57e547b451fa9d96fb43abc52c06c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d56b2f17e316dfeee3ba8817fc78cb11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.0.2.aar/d56b2f17e316dfeee3ba8817fc78cb11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8882dbcd1d1696f7c40e8211d04fc803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.0.2.aar/8882dbcd1d1696f7c40e8211d04fc803/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/af8bbfee1091282abce8fde4451e4005/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/support-compat-27.0.2.aar/af8bbfee1091282abce8fde4451e4005/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4915556eb820d83bba5364cc84bceb52/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] /home/huynhpvd/.gradle/caches/transforms-1/files-1.1/runtime-1.0.3.aar/4915556eb820d83bba5364cc84bceb52/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		ADDED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/src/main/AndroidManifest.xml

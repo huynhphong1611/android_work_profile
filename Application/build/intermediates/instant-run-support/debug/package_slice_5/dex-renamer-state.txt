@@ -1,0 +1,4 @@
+#Sat Nov 09 21:30:46 ICT 2019
+base.0=/home/huynhpvd/Desktop/Project Android App/android-BasicManagedProfile-master/Application/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
